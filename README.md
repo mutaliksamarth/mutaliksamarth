@@ -1,98 +1,117 @@
 <div align="center">
-  
-# Hi there! 👋 I'm Samarth Mutalik
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Web3+Enthusiast+%E2%9B%93" alt="Typing SVG" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Samarth%20Mutalik&fontSize=90&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20UI%20Designer%20|%20Web3%20Enthusiast&descAlignY=65)
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=435&lines=Building+the+future+of+web;Passionate+about+UI%2FUX;Always+learning%2C+always+growing;Let's+collaborate!" alt="Typing SVG" />
 
-## 🚀 About Me
-
-> Building the future of web, one commit at a time
-
-- 🔭 Currently working on **Next.js** projects
-- 🌱 Learning **Web3.0** and advanced **Next.js** concepts
-- 💬 Ask me about UI Design, Frontend & Backend Development
-- 📫 Reach me at: **mutaliksamarth.02@gmail.com**
-- ⚡ Fun fact: I'm an avid Anime enjoyer 🏯 and Competitive gamer 🎮
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://linkedin.com/in/samarth-mutalik02">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://discord.gg/fir3rush">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://x.com/samarthmutalik2">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="mailto:mutaliksamarth.02@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
-## 📊 GitHub Stats
+<details open>
+<summary><h2>🚀 About Me</h2></summary>
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=mutaliksamarth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mutaliksamarth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutaliksamarth&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mutaliksamarth&theme=discord&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
-## 🎯 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   16 hrs 42 mins  ███████████░░░░░░░░  45.2%
-JavaScript   8 hrs 12 mins   ██████░░░░░░░░░░░░░  22.1%
-React        6 hrs 15 mins   ████░░░░░░░░░░░░░░░  16.8%
-CSS          3 hrs 45 mins   ███░░░░░░░░░░░░░░░░  10.1%
-Other        2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░   5.8%
+```javascript
+const samarth = {
+    location: "India",
+    currentFocus: "Next.js Development",
+    learning: ["Web3.0", "Advanced Next.js"],
+    askMeAbout: ["UI Design", "Frontend", "Backend", "System Design"],
+    interests: ["Anime 🏯", "Competitive Gaming 🎮", "Open Source"],
+    currentProject: "Building something awesome with Next.js",
+    funFact: "I can watch anime for 12 hours straight!"
+};
 ```
-<!--END_SECTION:waka-->
 
-## 🤝 Connect With Me
+</details>
+
+<details open>
+<summary><h2>💻 Tech Arsenal</h2></summary>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-mutalik02)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fir3rush)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/samarthmutalik2)
+
+|Category|Technologies|
+|---|---|
+|**Core**|![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)|
+|**Frontend**|![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)|
+|**Backend**|![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)|
+|**Database**|![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)|
+|**DevOps**|![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)|
+
+</div>
+</details>
+
+<details open>
+<summary><h2>📊 GitHub Analytics</h2></summary>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mutaliksamarth&show_icons=true&count_private=true&hide_border=true&title_color=4F46E5&icon_color=4F46E5&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mutaliksamarth&hide_border=true&stroke=4F46E5&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF&currStreakLabel=4F46E5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mutaliksamarth&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutaliksamarth&layout=compact&hide_border=true&title_color=4F46E5&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+</details>
+
+<details>
+<summary><h2>⚡ Recent Activity</h2></summary>
+
+<!--START_SECTION:activity-->
+```text
+🎯 Coding Activity (Last 7 days)
+---------------------------
+TypeScript    18 hrs 42 mins  ████████████░░░░  48.2%
+React         12 hrs 15 mins  ████████░░░░░░░░  31.5%
+JavaScript     4 hrs 30 mins  ███░░░░░░░░░░░░░  11.6%
+CSS            2 hrs 45 mins  ██░░░░░░░░░░░░░░   7.1%
+Other          1 hr  12 mins  █░░░░░░░░░░░░░░░   1.6%
+```
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+<summary><h2>🌟 Featured Projects</h2></summary>
+
+<div align="center">
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mutaliksamarth&repo=your-repo-name&theme=tokyonight)](https://github.com/mutaliksamarth/your-repo-name)
 
 </div>
 
----
+</details>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mutaliksamarth&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+### 🎯 Weekly Development Breakdown
+
+```text
+Next.js      ██████████████░░░░░░  55.5%
+React        ████████░░░░░░░░░░░  30.2%
+TypeScript   ████░░░░░░░░░░░░░░░  14.3%
+```
+
+### 🌐 Visitor Count
   
-  <p>💭 <i>Let's build something amazing together!</i></p>
+![Profile Views](https://komarev.com/ghpvc/?username=mutaliksamarth&style=for-the-badge&color=4F46E5)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
 </div>
