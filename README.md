@@ -87,16 +87,7 @@ Other          1 hr  12 mins  █░░░░░░░░░░░░░░░  
 
 </details>
 
-<details>
-<summary><h2>🌟 Featured Projects</h2></summary>
 
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mutaliksamarth&repo=your-repo-name&theme=tokyonight)](https://github.com/mutaliksamarth/your-repo-name)
-
-</div>
-
-</details>
 
 <div align="center">
 
