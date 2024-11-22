@@ -1,117 +1,120 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Samarth%20Mutalik&fontSize=90&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20UI%20Designer%20|%20Web3%20Enthusiast&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&section=header&text=Samarth%20Mutalik&fontSize=90&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer&descSize=30&descAlignY=65)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=435&lines=Building+the+future+of+web;Passionate+about+UI%2FUX;Always+learning%2C+always+growing;Let's+collaborate!" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=🚀+Building+innovative+web+experiences;🎯+Passionate+about+Next.js+and+Web3;💻+Always+learning%2C+always+coding;🌟+Let's+create+something+amazing+together!)](https://git.io/typing-svg)
 
-<a href="https://linkedin.com/in/samarth-mutalik02">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://discord.gg/fir3rush">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="https://x.com/samarthmutalik2">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="mailto:mutaliksamarth.02@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<div align="center">
+<a href="mailto:mutaliksamarth.02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=6366F1"></a>
+<a href="https://linkedin.com/in/samarth-mutalik02" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6366F1"></a>
+<a href="https://discord.gg/fir3rush" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=6366F1"></a>
+<a href="https://x.com/samarthmutalik2" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=6366F1"></a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-<details open>
-<summary><h2>🚀 About Me</h2></summary>
+<h2 align="center">⚡ About Me</h2>
 
-```javascript
-const samarth = {
-    location: "India",
-    currentFocus: "Next.js Development",
-    learning: ["Web3.0", "Advanced Next.js"],
-    askMeAbout: ["UI Design", "Frontend", "Backend", "System Design"],
-    interests: ["Anime 🏯", "Competitive Gaming 🎮", "Open Source"],
-    currentProject: "Building something awesome with Next.js",
-    funFact: "I can watch anime for 12 hours straight!"
-};
+```typescript
+class Developer {
+    name: string = "Samarth Mutalik";
+    role: string = "Full Stack Developer";
+    location: string = "India";
+    workingOn: string = "Next.js Projects";
+    learning: string[] = ["Web3.0", "Advanced Next.js Patterns"];
+    interests: string[] = ["UI/UX", "System Design", "Open Source"];
+    hobbies: string[] = ["Anime 🎬", "Competitive Gaming 🎮"];
+    
+    sayHi() {
+        console.log("Thanks for dropping by! Let's create something amazing together!");
+    }
+}
 ```
 
-</details>
-
-<details open>
-<summary><h2>💻 Tech Arsenal</h2></summary>
-
 <div align="center">
-
-|Category|Technologies|
-|---|---|
-|**Core**|![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)|
-|**Frontend**|![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)|
-|**Backend**|![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)|
-|**Database**|![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)|
-|**DevOps**|![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)|
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-</details>
 
-<details open>
-<summary><h2>📊 GitHub Analytics</h2></summary>
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mutaliksamarth&show_icons=true&count_private=true&hide_border=true&title_color=4F46E5&icon_color=4F46E5&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mutaliksamarth&hide_border=true&stroke=4F46E5&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF&currStreakLabel=4F46E5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+
+| **Category** | **Technologies** |
+|-------------|-----------------|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=6366F1) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=6366F1) ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=6366F1) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=6366F1) ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=6366F1) ![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwind-css&logoColor=6366F1) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=6366F1) ![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=6366F1) ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=6366F1) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=6366F1) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=6366F1) |
+| **DevOps** | ![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=6366F1) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=6366F1) ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=6366F1) |
+
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mutaliksamarth&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mutaliksamarth&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&text_color=fff&title_color=6366F1&icon_color=6366F1">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutaliksamarth&theme=radical&background=0D1117&hide_border=true&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&dates=FFFFFF">
+</p>
+
+<p align="center">
+    <img width="63%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutaliksamarth&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=6366F1&text_color=FFFFFF">
+</p>
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutaliksamarth&layout=compact&hide_border=true&title_color=4F46E5&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-</details>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<details>
-<summary><h2>⚡ Recent Activity</h2></summary>
-
-<!--START_SECTION:activity-->
-```text
-🎯 Coding Activity (Last 7 days)
----------------------------
-TypeScript    18 hrs 42 mins  ████████████░░░░  48.2%
-React         12 hrs 15 mins  ████████░░░░░░░░  31.5%
-JavaScript     4 hrs 30 mins  ███░░░░░░░░░░░░░  11.6%
-CSS            2 hrs 45 mins  ██░░░░░░░░░░░░░░   7.1%
-Other          1 hr  12 mins  █░░░░░░░░░░░░░░░   1.6%
-```
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-<summary><h2>🌟 Featured Projects</h2></summary>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mutaliksamarth&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15">
+</p>
 
 <div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mutaliksamarth&repo=your-repo-name&theme=tokyonight)](https://github.com/mutaliksamarth/your-repo-name)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-</details>
+<h2 align="center">⚡ Recent Activity</h2>
 
 <div align="center">
-
-### 🎯 Weekly Development Breakdown
 
 ```text
-Next.js      ██████████████░░░░░░  55.5%
-React        ████████░░░░░░░░░░░  30.2%
-TypeScript   ████░░░░░░░░░░░░░░░  14.3%
+🚀 Weekly Development Breakdown
+
+Next.js      ████████████████░░░░   65.2%
+React        ████████░░░░░░░░░░░   25.1%
+TypeScript   ████░░░░░░░░░░░░░░░    9.7%
 ```
 
-### 🌐 Visitor Count
-  
-![Profile Views](https://komarev.com/ghpvc/?username=mutaliksamarth&style=for-the-badge&color=4F46E5)
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
+<h2 align="center">🎯 Featured Projects</h2>
+
+<p align="center">
+    <a href="https://github.com/mutaliksamarth/project1">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mutaliksamarth&repo=project1&theme=radical&bg_color=0D1117&hide_border=true&title_color=6366F1">
+    </a>
+    <a href="https://github.com/mutaliksamarth/project2">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mutaliksamarth&repo=project2&theme=radical&bg_color=0D1117&hide_border=true&title_color=6366F1">
+    </a>
+</p>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3>🌐 Profile Views</h3>
+
+<img src="https://komarev.com/ghpvc/?username=mutaliksamarth&style=for-the-badge&color=6366F1&base=1032" alt="Profile Views">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 </div>
