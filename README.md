@@ -1,13 +1,11 @@
-# Samarth Mutalik
-
 <div align="center">
-  <h1 style="font-size: 3em; background: linear-gradient(to right, #60a5fa, #a78bfa); -webkit-background-clip: text; color: transparent; animation: gradient-animation 5s infinite;">
+  <h1 style="font-size: 3em; background: linear-gradient(to right, #60a5fa, #a78bfa); -webkit-background-clip: text; color: transparent;">
     Samarth Mutalik
   </h1>
-  <p style="font-size: 1.25em; color: #d1d5db; animation: fade-in 2s ease-in-out;">Associate Software Developer | Full Stack Engineer</p>
+  <p style="font-size: 1.25em; color: #d1d5db;">Associate Software Developer | Full Stack Engineer</p>
 
   <!-- Social Links -->
-  <div style="animation: bounce-in 1.5s ease-in-out;">
+  <div>
     <a href="https://linkedin.com/in/samarth-mutalik02" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -43,7 +41,7 @@ const samarth = {
 
 ## ⭐ Tech Stack
 
-<table style="animation: slide-up 2s ease-in-out;">
+<table>
   <thead>
     <tr>
       <th>Category</th>
@@ -74,45 +72,17 @@ const samarth = {
 
 ## 📊 GitHub Activity
 
-<div align="center" style="animation: fade-in 2s ease-in-out;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mutaliksamarth&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" width="45%" style="border-radius: 8px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutaliksamarth&theme=dark&hide_border=true" alt="GitHub Streak" width="45%" style="border-radius: 8px;"/>
 </div>
 
 ---
 
-<div align="center" style="animation: zoom-in 1.5s ease-in-out;">
+<div align="center">
   <p style="color: #9ca3af; font-style: italic;">
     "Creating innovative solutions, one line of code at a time."
   </p>
 </div>
 
-<!-- Animations -->
-<style>
-@keyframes gradient-animation {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-@keyframes fade-in {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes slide-up {
-  from { transform: translateY(20px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-
-@keyframes bounce-in {
-  0% { transform: scale(0.5); opacity: 0; }
-  50% { transform: scale(1.2); opacity: 1; }
-  100% { transform: scale(1); }
-}
-
-@keyframes zoom-in {
-  from { transform: scale(0.8); opacity: 0; }
-  to { transform: scale(1); opacity: 1; }
-}
-</style>
+<!-- Animations Note: Animations do not work natively in Markdown, but this content was adjusted for static visuals. -->
