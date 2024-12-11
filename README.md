@@ -1,4 +1,4 @@
-
+# Samarth Mutalik
 
 <div align="center">
   <h1 style="font-size: 3em; background: linear-gradient(to right, #60a5fa, #a78bfa); -webkit-background-clip: text; color: transparent; animation: gradient-animation 5s infinite;">
